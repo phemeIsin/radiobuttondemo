@@ -12,5 +12,6 @@ after selecting dog
 ![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/dbd61ae2-ef68-4457-910a-6c814296cd4c)
 
 after selecting pig
+![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/1417311f-baef-4da0-9490-bc32d82e7f41)
 
 after selecting rabbit
