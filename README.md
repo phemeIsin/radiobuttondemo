@@ -15,3 +15,4 @@ after selecting pig
 ![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/1417311f-baef-4da0-9490-bc32d82e7f41)
 
 after selecting rabbit
+![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/c433fb92-4732-4d12-b57d-12fcaf0e1031)
