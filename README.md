@@ -9,6 +9,7 @@ after selecting cat
 ![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/49bdac4f-99b4-4e56-9c11-f2ba3da9a3c3)
 
 after selecting dog
+![image](https://github.com/phemeIsin/radiobuttondemo/assets/172006238/dbd61ae2-ef68-4457-910a-6c814296cd4c)
 
 after selecting pig
 
